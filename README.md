@@ -1,5 +1,9 @@
 # TechnicalAssessment
 
+i use Swagger for the api so i can check even without the front end
+also use Bogus
+
+
 
 here for the answer on question
 in the part 2
