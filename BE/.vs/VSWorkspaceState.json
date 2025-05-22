@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UserIdentityApi",
+    "\\UserIdentityApi\\Controller",
+    "\\UserIdentityApi\\Data",
+    "\\UserIdentityApi\\Models",
+    "\\UserIdentityApi\\obj",
+    "\\UserIdentityApi\\Properties"
+  ],
+  "SelectedNode": "\\UserIdentityApi\\Models\\UserIdentity.cs",
+  "PreviewInSolutionExplorer": false
+}

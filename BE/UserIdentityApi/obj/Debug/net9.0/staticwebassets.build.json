@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XWK7np9jxYbHtUAs4kckY65QLYIGJPdu+iPPjfWuEw4=",
+  "Source": "UserIdentityApi",
+  "BasePath": "_content/UserIdentityApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
